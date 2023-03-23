@@ -10,6 +10,6 @@ Question 04: Done by Zilin Zhang
 
 Question 05: Done by Jessica Chen
 
-Question 06: Done by ???
+Question 06: Done by Daniel Jang
 
 Outputs: Done by Jessica Chen and Zilin Zhang
