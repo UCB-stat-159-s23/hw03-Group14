@@ -12,4 +12,4 @@ Question 05: Done by Jessica Chen
 
 Question 06: Done by Daniel Jang
 
-Outputs: Done by Jessica Chen and Zilin Zhang
+Outputs: Done by Jessica Chen and Zilin Zhang and Daniel Jang
